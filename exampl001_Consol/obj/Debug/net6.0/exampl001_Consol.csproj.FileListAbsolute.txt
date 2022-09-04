@@ -1,0 +1,15 @@
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\bin\Debug\net6.0\exampl001_Consol.exe
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\bin\Debug\net6.0\exampl001_Consol.deps.json
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\bin\Debug\net6.0\exampl001_Consol.runtimeconfig.json
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\bin\Debug\net6.0\exampl001_Consol.dll
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\bin\Debug\net6.0\exampl001_Consol.pdb
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\obj\Debug\net6.0\exampl001_Consol.csproj.AssemblyReference.cache
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\obj\Debug\net6.0\exampl001_Consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\obj\Debug\net6.0\exampl001_Consol.AssemblyInfoInputs.cache
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\obj\Debug\net6.0\exampl001_Consol.AssemblyInfo.cs
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\obj\Debug\net6.0\exampl001_Consol.csproj.CoreCompileInputs.cache
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\obj\Debug\net6.0\exampl001_Consol.dll
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\obj\Debug\net6.0\refint\exampl001_Consol.dll
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\obj\Debug\net6.0\exampl001_Consol.pdb
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\obj\Debug\net6.0\exampl001_Consol.genruntimeconfig.cache
+C:\Users\Helgi\Desktop\Proba_pera\exampl001_Consol\obj\Debug\net6.0\ref\exampl001_Consol.dll
